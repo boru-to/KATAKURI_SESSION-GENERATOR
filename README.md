@@ -8,8 +8,8 @@
 <br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Itxxwasi">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+   <a href="https://github.com/boru-to">
+    <img src="https://files.catbox.moe/zuhd2x.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{boru-to}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
